@@ -34,7 +34,7 @@ export default function App() {
     <div className="min-h-screen bg-gray-100 flex items-center justify-center px-4">
       <div className="bg-white w-full max-w-md p-6 rounded-2xl shadow-md">
         <h1 className="text-2xl font-bold text-center text-blue-600 mb-4">
-          📝 TAREAS OCTUBRE 2025
+          📝 TAREAS NOVIEMBRE 2025
         </h1>
 
         <div className="flex gap-2 mb-4">
