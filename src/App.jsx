@@ -30,6 +30,7 @@ export default function App() {
     setTexto("");
   };
 
+  
   const toggleTarea = (id) => {
     setTareas(
       tareas.map((t) =>
